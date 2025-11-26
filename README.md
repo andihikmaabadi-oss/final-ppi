@@ -213,8 +213,8 @@
 
         <!-- PAGE: CONTACT -->
         <section id="page-contact" class="card hidden">
-          <div class="section-title"><button class="back" data-target="page-home">← Kembali</button><h2>Kontak & Lokasi</h2></div>
-          <p>Alamat: Gedung Fisika, Kampus Utama<br>Email: lab-material-energi@universitas.ac.id<br>Telepon: +62 21 555 1234</p>
+          <div class="section-title"><button class="back" data-target="page-home">← Kembali</button><h2>Lokasi</h2></div>
+          <p>Fakultas MIPA, Jln. Perintis Kemerdekaan Km. 10, Kampus Unhas Tamalanrea, Makassar 90245, Sulawesi Selatan, Indonesia.</p>
         </section>
       </div>
 
